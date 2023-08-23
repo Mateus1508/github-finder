@@ -1,6 +1,6 @@
 export type Details = {
-    id: string;
-    login: string;
-    url: string;
-    created_at: string;
+    login: string,
+    id: number,
+    url: string,
+    created_at: string,
 }
